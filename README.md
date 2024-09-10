@@ -28,7 +28,7 @@ yarn -v
 
 2. **Navigate into the Project Directory**
   ```
-  chat-app-realtime-react
+  cd chat-app-realtime-react
   ```
 
 3. **Install Ruby Gems**
