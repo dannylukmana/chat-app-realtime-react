@@ -1,24 +1,30 @@
-# README
+# Simple real-time chat web application using Ruby on Rails and React.js Starter Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a starter project combining a Ruby on Rails backend with a React.js frontend. This setup is useful for building modern web applications with a clear separation between frontend and backend.
 
-Things you may want to cover:
+## Table of Contents
 
-* Ruby version
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Running the Application](#running-the-application)
+- [Folder Structure](#folder-structure)
+- [Scripts](#scripts)
+- [Contributing](#contributing)
+- [License](#license)
 
-* System dependencies
+## Prerequisites
 
-* Configuration
+Before you begin, ensure you have met the following requirements:
 
-* Database creation
+- **Ruby** (version 3.0+)
+- **Rails** (version 7.0+)
+- **Node.js** (version 18.0+)
+- **Yarn** (version 1.22+)
 
-* Database initialization
+You can verify your versions by running:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+ruby -v
+rails -v
+node -v
+yarn -v
