@@ -11,11 +11,12 @@ Before you begin, ensure you have met the following requirements:
 
 You can verify your versions by running:
 
-```bash
+```
 ruby -v
 rails -v
 node -v
 yarn -v
+```
 
 ## Getting Started
 
@@ -23,24 +24,29 @@ yarn -v
 
    To get a local copy of this project, run the following command:
 
-   ```bash
+   ```
    git clone https://github.com/dannylukmana/chat-app-realtime-react.git
+   ```
 
 2. **Navigate into the Project Directory**
-  ```bash
+  ```
   chat-app-realtime-react
+  ```
 
 3. **Install Ruby Gems**
-  ```bash
+  ```
   bundle install
+  ```
 
 4. **Start the Backend**
-  ```bash
+  ```
   rails server
+  ```
 
 5. **Start the Frontend**
-  ```bash
+  ```
   npm start
+  ```
 
 
 
