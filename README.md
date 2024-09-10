@@ -35,38 +35,42 @@ yarn -v
   ```
   bundle install
   ```
-4. **Install Node**
-  ```
-  npm install 
-  ```
-5. **Install Font Awesome**
-  ```
-  npm install @fortawesome/fontawesome-free
-  ```
-5. **Jumping into VSCode**
+
+4. **Jumping into VSCode**
   ```
   code .
   ```
+
 > [!NOTE]
 > Recommended using two terminals: one for the backend and one for the frontend
 
-4. **Start the Backend**
+5. **Start the Backend**
   Open terminal 1 for Rails Server
   ```
   rails server
   ```
-open Local : http://127.0.0.1:3000 and click **Run pending migrations**
-
-5. **Start the Frontend**
+  open Local : http://127.0.0.1:3000 and click **Run pending migrations**
+  
+6. **Start the Frontend**
   Open Terminal 2 for React and direct to
   ```
   cd client
+  ```
+
+7. **Install Node**
+  ```
+  npm install 
+  ```
+
+8. **Install Font Awesome**
+  ```
+  npm install @fortawesome/fontawesome-free
   ```
   **and**
   ```
   npm run dev
   ```
-open Local: http://localhost:5173/
+  open Local: http://localhost:5173/
 
 ## Specification 
 - [x] Create a chatroom
