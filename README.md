@@ -36,6 +36,9 @@ yarn -v
   bundle install
   ```
 
+> [!NOTE]
+> Recommended using two terminals: one for the backend and one for the frontend
+
 4. **Start the Backend**
   ```
   rails server
