@@ -57,7 +57,7 @@ yarn -v
   cd client
   ```
 
-7. **Install Node**
+7. **Download and install dependencies for a project**
   ```
   npm install 
   ```
