@@ -21,12 +21,10 @@ yarn -v
 ## Getting Started
 
 1. **Clone the Repository**
-
-   To get a local copy of this project, run the following command:
-
-   ```
-   git clone https://github.com/dannylukmana/chat-app-realtime-react.git
-   ```
+  To get a local copy of this project, run the following command:
+  ```
+  git clone https://github.com/dannylukmana/chat-app-realtime-react.git
+  ```
 
 2. **Navigate into the Project Directory**
   ```
