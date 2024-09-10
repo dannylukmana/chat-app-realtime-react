@@ -46,5 +46,10 @@ yarn -v
   npm start
   ```
 
-
+## Specification 
+- [x]Create a chatroom
+- [x]Post messages with real-time updates to the view
+- [x]Implement a tasteful UI
+- [x]Use a modern JavaScript frontend (e.g., React)
+- [x]No need for user authentication
 
