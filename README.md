@@ -4,10 +4,10 @@ This is a starter project combining a Ruby on Rails backend with a React.js fron
 
 Before you begin, ensure you have met the following requirements:
 
-- **Ruby** (version 3.0+)
-- **Rails** (version 7.0+)
-- **Node.js** (version 18.0+)
-- **Yarn** (version 1.22+)
+- **Ruby** (version 3.3.3)
+- **Rails** (version 7.2.1)
+- **Node.js** (version 20.12.0)
+- **Yarn** (version 1.22.22)
 
 You can verify your versions by running:
 
