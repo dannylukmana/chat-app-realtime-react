@@ -1,8 +1,6 @@
 # Simple real-time chat web application using Ruby on Rails and React.js Starter Project
 
-This is a starter project combining a Ruby on Rails backend with a React.js frontend. This setup is useful for building modern web applications with a clear separation between frontend and backend.
-
-"React Action Cable Chat App Basics With WebSockets" refers to building a real-time chat application using React as the frontend and Ruby on Rails 7 as the backend, with WebSockets facilitating live communication.
+This is a starter project that combines a Ruby on Rails backend with a React.js frontend. This setup is ideal for building modern web applications with a clear separation between frontend and backend. It demonstrates how to build a real-time chat application using React for the frontend and Ruby on Rails 7 for the backend, with WebSockets enabling live communication.
 
 **Key Components**:
   **1. React Frontend**: React is used to build the user interface, handling the rendering of messages, chat input, and user interactions in real-time.
