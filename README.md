@@ -2,6 +2,24 @@
 
 This is a starter project combining a Ruby on Rails backend with a React.js frontend. This setup is useful for building modern web applications with a clear separation between frontend and backend.
 
+"React Action Cable Chat App Basics With WebSockets" refers to building a real-time chat application using React as the frontend and Ruby on Rails 7 as the backend, with WebSockets facilitating live communication.
+
+**Key Components**:
+  **1. React Frontend**: React is used to build the user interface, handling the rendering of messages, chat input, and user interactions in real-time.
+
+  **2. Ruby on Rails 7 Backend**: Rails 7 comes with built-in support for WebSockets via Action Cable, which allows real-time, bi-directional communication between the server and the client. Action Cable is   responsible for managing WebSocket connections, broadcasting messages, and ensuring communication between clients happens instantly.
+
+  **3. WebSockets**: WebSockets provide full-duplex communication channels over a single TCP connection, enabling live data streaming between the client and the server without frequent HTTP requests. This makes it ideal for chat applications, where messages are transmitted instantly as users send them.
+
+  **4. Action Cable**: This is a framework that integrates WebSocket connections into Rails, allowing Rails to handle multiple real-time connections. It enables chat messages to be broadcast in real time to all connected users.
+
+**Basic Flow**:
+- When a user sends a message, the message is transmitted to the server using WebSockets.
+- The server, using Action Cable, broadcasts the message to all subscribed clients.
+- React listens for these messages and updates the chat interface instantly without page reloads.
+
+This combination of React, Rails 7, WebSockets, and Action Cable is commonly used to build efficient, modern real-time applications, particularly chat systems.
+
 Before you begin, ensure you have met the following requirements:
 
 - **Ruby** (version 3.3.3)
