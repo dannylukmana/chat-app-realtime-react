@@ -117,7 +117,5 @@ yarn -v
 - [x] Use a modern JavaScript frontend (e.g., React)
 - [x] No need for user authentication
 
-## Report 
-![LiveChatMessages-GoogleChrome2024-09-1217-17-49-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7eca9066-764f-48a9-9db2-5f94ca78b3ab)
 
 
